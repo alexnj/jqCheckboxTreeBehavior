@@ -1,11 +1,11 @@
-/*!
- * jQuery Checkbox Tree
- * @author Alex N J
- *
+/*
+ * jQuery Checkbox Tree Behavior
+ * @author Alex N J (www.alexnj.com)
+ * @license Licensed under MIT, http://www.opensource.org/licenses/mit-license.php
  * @version 0.1
  */
  ;( function( $ ) {
-    $.fn.checkboxTree = function( settings ) {
+    $.fn.checkboxTreeBehavior = function( settings ) {
         settings = jQuery.extend( {
             // No settings for now.
         }, settings );
