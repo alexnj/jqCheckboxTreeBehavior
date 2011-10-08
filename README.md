@@ -28,7 +28,7 @@ Below is a sample markup that will work with the plugin. The LABEL tags are not 
 </ul>
 ```
 
-## Usage ## 
+## Usage 
 
 Include jQuery base file and this plugin file, with appropriate script tags and initialize the tree with the following simple code.
 
@@ -36,3 +36,6 @@ Include jQuery base file and this plugin file, with appropriate script tags and 
 $( '#tree' ).checkboxTreeBehavior();
 ```
 
+## License
+
+This plugin is licensed under [MIT license](http://www.opensource.org/licenses/mit-license.php "MIT license").
